@@ -1,0 +1,15 @@
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.DataAccess\obj\Debug\net7.0\IndraApiBack.DataAccess.csproj.AssemblyReference.cache
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.DataAccess\obj\Debug\net7.0\IndraApiBack.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.DataAccess\obj\Debug\net7.0\IndraApiBack.DataAccess.AssemblyInfoInputs.cache
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.DataAccess\obj\Debug\net7.0\IndraApiBack.DataAccess.AssemblyInfo.cs
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.DataAccess\obj\Debug\net7.0\IndraApiBack.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.DataAccess\bin\Debug\net7.0\IndraApiBack.DataAccess.deps.json
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.DataAccess\bin\Debug\net7.0\IndraApiBack.DataAccess.dll
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.DataAccess\bin\Debug\net7.0\IndraApiBack.DataAccess.pdb
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.DataAccess\bin\Debug\net7.0\IndraApiBack.Models.dll
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.DataAccess\bin\Debug\net7.0\IndraApiBack.Models.pdb
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.DataAccess\obj\Debug\net7.0\IndraApiBack.DataAccess.csproj.CopyComplete
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.DataAccess\obj\Debug\net7.0\IndraApiBack.DataAccess.dll
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.DataAccess\obj\Debug\net7.0\refint\IndraApiBack.DataAccess.dll
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.DataAccess\obj\Debug\net7.0\IndraApiBack.DataAccess.pdb
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.DataAccess\obj\Debug\net7.0\ref\IndraApiBack.DataAccess.dll

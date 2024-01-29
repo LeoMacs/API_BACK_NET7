@@ -1,0 +1,21 @@
+API .net 7
+Dappers -> micro orm
+sql client - se conecta con sql server
+extension.configuration-> para acceder a la cadena de conexion
+conexión con BD IMUDESA
+----------------------------
+En Program.cs se agrega encabezados CORS en api de . net 7 para que
+el  frontend accedan a los servicios
+services.AddCors(options =>
+        {
+            options.AddPolicy("AllowSpecificOrigin",
+                builder =>
+                {
+                    builder.WithOrigins("http://localhost:4200") // Orígenes permitidos
+                           .AllowAnyMethod() // Métodos permitidos (GET, POST, PUT, DELETE, etc.)
+                           .AllowAnyHeader(); // Encabezados permitidos
+                });
+        });
+----------------------------
+
+

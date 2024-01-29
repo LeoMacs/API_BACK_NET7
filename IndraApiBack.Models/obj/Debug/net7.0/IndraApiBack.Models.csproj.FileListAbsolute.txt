@@ -1,0 +1,11 @@
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.Models\bin\Debug\net7.0\IndraApiBack.Models.deps.json
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.Models\bin\Debug\net7.0\IndraApiBack.Models.dll
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.Models\bin\Debug\net7.0\IndraApiBack.Models.pdb
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.Models\obj\Debug\net7.0\IndraApiBack.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.Models\obj\Debug\net7.0\IndraApiBack.Models.AssemblyInfoInputs.cache
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.Models\obj\Debug\net7.0\IndraApiBack.Models.AssemblyInfo.cs
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.Models\obj\Debug\net7.0\IndraApiBack.Models.csproj.CoreCompileInputs.cache
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.Models\obj\Debug\net7.0\IndraApiBack.Models.dll
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.Models\obj\Debug\net7.0\refint\IndraApiBack.Models.dll
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.Models\obj\Debug\net7.0\IndraApiBack.Models.pdb
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.Models\obj\Debug\net7.0\ref\IndraApiBack.Models.dll

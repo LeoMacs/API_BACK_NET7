@@ -1,0 +1,17 @@
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.BusinessLogic\bin\Debug\net7.0\IndraApiBack.BusinessLogic.deps.json
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.BusinessLogic\bin\Debug\net7.0\IndraApiBack.BusinessLogic.dll
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.BusinessLogic\bin\Debug\net7.0\IndraApiBack.BusinessLogic.pdb
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.BusinessLogic\obj\Debug\net7.0\IndraApiBack.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.BusinessLogic\obj\Debug\net7.0\IndraApiBack.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.BusinessLogic\obj\Debug\net7.0\IndraApiBack.BusinessLogic.AssemblyInfo.cs
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.BusinessLogic\obj\Debug\net7.0\IndraApiBack.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.BusinessLogic\obj\Debug\net7.0\IndraApiBack.BusinessLogic.dll
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.BusinessLogic\obj\Debug\net7.0\refint\IndraApiBack.BusinessLogic.dll
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.BusinessLogic\obj\Debug\net7.0\IndraApiBack.BusinessLogic.pdb
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.BusinessLogic\obj\Debug\net7.0\ref\IndraApiBack.BusinessLogic.dll
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.BusinessLogic\bin\Debug\net7.0\IndraApiBack.DataAccess.dll
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.BusinessLogic\bin\Debug\net7.0\IndraApiBack.Models.dll
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.BusinessLogic\bin\Debug\net7.0\IndraApiBack.DataAccess.pdb
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.BusinessLogic\bin\Debug\net7.0\IndraApiBack.Models.pdb
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.BusinessLogic\obj\Debug\net7.0\IndraApiBack.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\MARCO\Desktop\carpeta evaluacion\INDRA\IndraApiBack\IndraApiBack.BusinessLogic\obj\Debug\net7.0\IndraApiBack.BusinessLogic.csproj.CopyComplete
